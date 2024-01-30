@@ -3,7 +3,7 @@
 
 I am an AI Engineer who is passionate about open-source Natural Language Processing (NLP) and Deep Learning projects.
 
-I am currently developing a web platform that can handle a variety of inputs, including images, text, videos, and tabular data. The platform will be able to create ML/DL workflows for training models and provide businesses value.
+I am currently developing a web platform that can handle a variety of inputs, including images, text, videos, and tabular data. The platform will be able to create ML/DL workflows for training models and provide business value.
 
 Aside from that, I am interested in generative AI, Large Language Models (LLMs), and computer vision.
 
