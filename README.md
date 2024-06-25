@@ -21,5 +21,10 @@ Find out more about me on my [website](https://www.lkmeta.me/).
 
 
 
+<p align="center"> 
+  <img src="https://profile-counter.glitch.me/lkmeta/count.svg" />
+</p>
+
+
 ## 📫 Get in Touch 
 If you're attracted by an interesting idea that aligns with my interests, or if you want to learn more about my work, feel free to contact me!
