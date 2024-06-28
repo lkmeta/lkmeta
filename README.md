@@ -20,11 +20,5 @@ Find out more about me on my [website](https://www.lkmeta.me/).
 <a href="https://www.youtube.com/@lkosme" target="_blank"><img alt="YouTube" src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" /></a>
 
 
-
-<p align="center"> 
-  <img src="https://profile-counter.glitch.me/lkmeta/count.svg" />
-</p>
-
-
 ## 📫 Get in Touch 
 If you're attracted by an interesting idea that aligns with my interests, or if you want to learn more about my work, feel free to contact me!
