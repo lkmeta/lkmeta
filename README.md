@@ -11,6 +11,9 @@ When I am not coding, I enjoy practicing video editing for my [YouTube channel](
 
 Find out more about me on my [website](https://www.lkmeta.me/).
 
+<div id="header" align="center">
+  <img src="https://komarev.com/ghpvc/?username=lkmeta&style=for-the-badge" alt=""/>
+</div>
 
 ## 🔗 Connect with me 
 <a href="https://www.lkmeta.me" target="_blank"><img alt="Personal Website" src="https://img.shields.io/badge/Personal%20Website-%2312100E.svg?&style=for-the-badge&logoColor=white" /></a>
