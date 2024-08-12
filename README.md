@@ -21,6 +21,7 @@ Find out more about me on my [website](https://www.lkmeta.me/).
 <a href="https://twitter.com/lkmetaa" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
 <a href="https://medium.com/@louiskmeta" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
 <a href="https://www.youtube.com/@lkosme" target="_blank"><img alt="YouTube" src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+<a href="https://linktr.ee/lkmeta" target="_blank"><img alt="Link Tree" src="https://img.shields.io/badge/Link%20Tree-%2312100E.svg?&style=for-the-badge" /></a>
 
 
 ## 📫 Get in Touch 
