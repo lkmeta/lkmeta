@@ -9,14 +9,14 @@ Aside from that, I am interested in generative AI, Large Language Models (LLMs),
 
 When I am not coding, I enjoy practicing video editing for my [YouTube channel](https://www.youtube.com/@lkosme).
 
-Find out more about me on my [website](https://www.lkmeta.me/).
+Find out more about me on my [website](https://www.lkmeta.com/).
 
 <div id="header" align="center">
   <img src="https://komarev.com/ghpvc/?username=lkmeta&style=for-the-badge" alt=""/>
 </div>
 
 ## 🔗 Connect with me 
-<a href="https://www.lkmeta.me" target="_blank"><img alt="Personal Website" src="https://img.shields.io/badge/Personal%20Website-%2312100E.svg?&style=for-the-badge&logoColor=white" /></a>
+<a href="https://www.lkmeta.com" target="_blank"><img alt="Personal Website" src="https://img.shields.io/badge/Personal%20Website-%2312100E.svg?&style=for-the-badge&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/lkmeta/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://twitter.com/lkmetaa" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
 <a href="https://medium.com/@louiskmeta" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
