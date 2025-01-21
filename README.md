@@ -3,7 +3,7 @@
 
 I am an AI Engineer who is passionate about open-source Natural Language Processing (NLP) and Deep Learning projects.
 
-I am currently developing a web platform that can handle a variety of inputs, including images, text, videos, and tabular data. The platform will be able to create ML/DL workflows for training models and provide business value.
+I am currently working with saas.group as an AI Engineer, driving AI/ML feature integration across SaaS brands, building NLP tools, LLM-powered applications, and scalable solutions to enhance user experience and operational efficiency.
 
 Aside from that, I am interested in generative AI, Large Language Models (LLMs), and computer vision.
 
