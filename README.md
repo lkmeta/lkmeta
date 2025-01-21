@@ -16,12 +16,12 @@ Find out more about me on my [website](https://www.lkmeta.com/).
 </div>
 
 ## 🔗 Connect with me 
-<a href="https://www.lkmeta.com" target="_blank"><img alt="Personal Website" src="https://img.shields.io/badge/Personal%20Website-%2312100E.svg?&style=for-the-badge&logoColor=white" /></a>
+<a href="https://www.lkmeta.com" target="_blank"><img alt="Personal Website" src="https://img.shields.io/badge/personal-website-purple?style=for-the-badge" /></a>
 <a href="https://www.linkedin.com/in/lkmeta/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://twitter.com/lkmetaa" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
-<a href="https://medium.com/@louiskmeta" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
+<a href="https://twitter.com/lkmetaa" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-blue?style=for-the-badge&logo=x&logoColor=black&color=white" /></a>
+<a href="https://medium.com/@louiskmeta" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-blue?style=for-the-badge&logo=medium&logoColor=white&color=black" /></a>
 <a href="https://www.youtube.com/@lkosme" target="_blank"><img alt="YouTube" src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" /></a>
-<a href="https://linktr.ee/lkmeta" target="_blank"><img alt="Link Tree" src="https://img.shields.io/badge/Link%20Tree-%2312100E.svg?&style=for-the-badge" /></a>
+<a href="https://linktr.ee/lkmeta" target="_blank"><img alt="Link Tree" src="https://img.shields.io/badge/link-tree-green?style=for-the-badge&logo=linktree" /></a>
 
 
 ## 📫 Get in Touch 
